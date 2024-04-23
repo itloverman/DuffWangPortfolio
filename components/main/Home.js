@@ -86,22 +86,6 @@ export default function Home() {
               >
                 <SiGithub color="white" size={30} />
               </a>
-              {/* <a
-                rel="noreferrer"
-                target="_blank"
-                href="https://www.linkedin.com/in/adam-sims1203"
-                className={`px-2 hover:scale-125 cursor-pointer transition-all`}
-              >
-                <SiLinkedin color="white" size={30} />
-              </a> */}
-              {/* <a
-                rel="noreferrer"
-                target="_blank"
-                href="https://wa.me/+12766442638"
-                className={`px-2 hover:scale-125 cursor-pointer transition-all`}
-              >
-                <SiWhatsapp color="white" size={30} />
-              </a> */}
               <a
                 rel="noreferrer"
                 target="_blank"
