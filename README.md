@@ -2,7 +2,7 @@
 
 ![THumb](/readme/mark.jpg)
 
-Visit website [HERE](https://yuricorredor.tech/).
+Visit website [HERE](https://duffwang-portfolio.vercel.app/).
 
 <br>
 
@@ -54,6 +54,6 @@ yarn dev
 
 # OVERVIEW :)
 
-Visit website [HERE](https://yuricorredor.tech/).
+Visit website [HERE](https://duffwang-portfolio.vercel.app/).
 
 ![OVERVIEW](/readme/overview.png)
