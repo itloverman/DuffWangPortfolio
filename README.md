@@ -36,7 +36,7 @@ $PROJECT_ROOT
 # Run Locally
 
 ```bash
-git clone https://github.com/itloverman/portfolio.git
+git clone https://github.com/wahahayay/portfolio.git
 cd portfolio
 # install dependencies
 npm install

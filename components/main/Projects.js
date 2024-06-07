@@ -19,7 +19,7 @@ const projects = [
       "Tailwind CSS",
       "TypeScript",
     ],
-    gitLink: "https://github.com/itloverman/lapino",
+    gitLink: "https://github.com/wahahayay/lapino",
     bgPath: "/lapino.png",
   },
   {
@@ -38,7 +38,7 @@ const projects = [
       "2embed",
       "TypeScript",
     ],
-    gitLink: "https://github.com/itloverman/netflix",
+    gitLink: "https://github.com/wahahayay/netflix",
     bgPath: "/netflix.webp",
   },
   {
@@ -48,7 +48,7 @@ const projects = [
     description:
       "Tellmann Shopify Ecommerce Agency Website. I've built the site to establish a basis to find new Web Development projects and promote Shopify services.",
     techs: ["NextJs", "Tailwind CSS", "Windy UI", "Nodemailer", "TypeScript"],
-    gitLink: "https://github.com/itloverman/Tellman",
+    gitLink: "https://github.com/wahahayay/Tellman",
     bgPath: "/tellmann.png",
   },
   {
@@ -68,7 +68,7 @@ const projects = [
       "Zod",
       "TypeScript",
     ],
-    gitLink: "https://github.com/itloverman/kidslivingsite",
+    gitLink: "https://github.com/wahahayay/kidslivingsite",
     bgPath: "/lunalemon.png",
   },
   {
@@ -85,7 +85,7 @@ const projects = [
       "Nodemailer",
       "TypeScript",
     ],
-    gitLink: "https://github.com/itloverman/withjoy",
+    gitLink: "https://github.com/wahahayay/withjoy",
     bgPath: "/withjoy.png",
   },
   {
@@ -103,7 +103,7 @@ const projects = [
       "SQLAlchemy",
       "Expo",
     ],
-    gitLink: "https://github.com/itloverman/chat-app",
+    gitLink: "https://github.com/wahahayay/chat-app",
     bgPath: "/chat.jpg",
   },
 ];
