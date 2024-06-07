@@ -24,7 +24,7 @@ const projects = [
   },
   {
     link: "https://www.onefinity.network",
-    color: "#1ed760",
+    color: "#FF7A00",
     title: "Onefinity",
     description:
       "Amplifying Ethereum’s potential through OneFinity, achieving innovation to the power of X. Based on the client's needs, I built this website based on a Figma design and launched it in just 2 days. As with my other projects, my goal was to build a responsive, fast-loading, professional website and create pixel-perfect site like Figma Design.",
@@ -39,10 +39,10 @@ const projects = [
   },
   {
     link: "https://x-leverage.vercel.app/",
-    color: "#1ed760",
+    color: "#007FE3",
     title: "X-LEVERAGE",
     description:
-      "Web3 platform for MultiversX",
+      "Web3 platform for MultiversX. Empower your Trades decentralize your gains. Swap, Lend & Borrow, Activity Features",
     techs: [
       "React",
       "Responsive Web",
