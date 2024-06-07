@@ -23,6 +23,36 @@ const projects = [
     bgPath: "/lapino.png",
   },
   {
+    link: "https://www.onefinity.network",
+    color: "#1ed760",
+    title: "Onefinity",
+    description:
+      "Amplifying Ethereum’s potential through OneFinity, achieving innovation to the power of X. Based on the client's needs, I built this website based on a Figma design and launched it in just 2 days. As with my other projects, my goal was to build a responsive, fast-loading, professional website and create pixel-perfect site like Figma Design.",
+    techs: [
+      "Webflow",
+      "Responsive Web",
+      "Motion",
+      "SEO performance"
+    ],
+    gitLink: "https://github.com/wahahayay",
+    bgPath: "/onefinityBack.png",
+  },
+  {
+    link: "https://x-leverage.vercel.app/",
+    color: "#1ed760",
+    title: "X-LEVERAGE",
+    description:
+      "Web3 platform for MultiversX",
+    techs: [
+      "React",
+      "Responsive Web",
+      "TypeScript",
+      "BootStrap"
+    ],
+    gitLink: "https://github.com/wahahayay/SecondXLeverage",
+    bgPath: "/xleverage.png",
+  },
+  {
     link: "https://netflix-adam-clone.vercel.app",
     color: "#1ed760",
     title: "Netflix React Clone",
