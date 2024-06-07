@@ -37,21 +37,7 @@ const projects = [
     gitLink: "https://github.com/wahahayay",
     bgPath: "/onefinityBack.png",
   },
-  {
-    link: "https://x-leverage.vercel.app/",
-    color: "#007FE3",
-    title: "X-LEVERAGE",
-    description:
-      "Web3 platform for MultiversX. Empower your Trades decentralize your gains. Swap, Lend & Borrow, Activity Features",
-    techs: [
-      "React",
-      "Responsive Web",
-      "TypeScript",
-      "BootStrap"
-    ],
-    gitLink: "https://github.com/wahahayay/SecondXLeverage",
-    bgPath: "/xleverage.png",
-  },
+  
   {
     link: "https://netflix-adam-clone.vercel.app",
     color: "#1ed760",
@@ -117,6 +103,21 @@ const projects = [
     ],
     gitLink: "https://github.com/wahahayay/withjoy",
     bgPath: "/withjoy.png",
+  },
+  {
+    link: "https://x-leverage.vercel.app/",
+    color: "#007FE3",
+    title: "X-LEVERAGE",
+    description:
+      "Web3 platform for MultiversX. Empower your Trades decentralize your gains. Swap, Lend & Borrow, Activity Features",
+    techs: [
+      "React",
+      "Responsive Web",
+      "TypeScript",
+      "BootStrap"
+    ],
+    gitLink: "https://github.com/wahahayay/SecondXLeverage",
+    bgPath: "/xleverage.png",
   },
   {
     link: null,
